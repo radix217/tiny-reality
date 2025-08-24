@@ -1,4 +1,4 @@
-# TinyReality
+# TinyReality (In Progress)
 
 A dataset for training language models with physically grounded world knowledge.
 
